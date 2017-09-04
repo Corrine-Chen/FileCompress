@@ -1,0 +1,37 @@
+﻿生成启动时间为 2017/5/13 20:12:50。
+     1>项目“E:\WorkStadio\讲课\18班\DataStruct\FileCompress\FileCompress\FileCompress.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\FileCompress.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt FileCompressTest.cpp
+         FileCompressTest.cpp
+     1>e:\workstadio\讲课\18班\datastruct\filecompress\filecompress\filecompress.h(52): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>e:\workstadio\讲课\18班\datastruct\filecompress\filecompress\filecompress.h(79): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>e:\workstadio\讲课\18班\datastruct\filecompress\filecompress\filecompress.h(97): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+     1>e:\workstadio\讲课\18班\datastruct\filecompress\filecompress\filecompress.h(97): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(867) : 参见“itoa”的声明
+     1>e:\workstadio\讲课\18班\datastruct\filecompress\filecompress\filecompress.h(104): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(867) : 参见“itoa”的声明
+     1>e:\workstadio\讲课\18班\datastruct\filecompress\filecompress\filecompress.h(169): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\WorkStadio\讲课\18班\DataStruct\FileCompress\Debug\FileCompress.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\FileCompress.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\WorkStadio\讲课\18班\DataStruct\FileCompress\Debug\FileCompress.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\WorkStadio\讲课\18班\DataStruct\FileCompress\Debug\FileCompress.lib" /MACHINE:X86 Debug\FileCompress.exe.embed.manifest.res
+         Debug\FileCompressTest.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\FileCompress.exe.embed.manifest" /manifest Debug\FileCompress.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         FileCompress.vcxproj -> E:\WorkStadio\讲课\18班\DataStruct\FileCompress\Debug\FileCompress.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\FileCompress.unsuccessfulbuild”。
+         正在对“Debug\FileCompress.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\WorkStadio\讲课\18班\DataStruct\FileCompress\FileCompress\FileCompress.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.32
